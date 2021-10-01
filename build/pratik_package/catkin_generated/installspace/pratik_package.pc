@@ -1,0 +1,8 @@
+prefix=/home/pnt/catkin_pratik_ws/install
+
+Name: pratik_package
+Description: Description of pratik_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

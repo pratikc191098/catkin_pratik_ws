@@ -1,0 +1,2 @@
+pratik_package
+-DCATKIN_DEVEL_PREFIX=/home/pnt/catkin_pratik_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pnt/catkin_pratik_ws/install -G Unix Makefiles
